@@ -37,3 +37,9 @@ It might be useful to manually find some invalid efforts, as well as use the bel
 # What shouldn't be considered?
 
 Sensors often report false readings due to some other technical problem, like a bad connection or poor conductivity. Therefore a low heart rate and cadence may not by themselves indicate an invalid effort.
+
+# Useful links:
+
+- Strava API: http://strava.github.io/api/
+- Your API client: https://www.strava.com/settings/api
+- Strava SDK in Node: https://github.com/UnbounDev/node-strava-v3
