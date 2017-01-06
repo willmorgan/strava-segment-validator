@@ -1,0 +1,16 @@
+{
+  "name": "strava-segment-validator",
+  "version": "1.0.0",
+  "description": "Analyses Strava segments for anomalous efforts",
+  "main": "src/index.js",
+  "scripts": {
+    "main": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Morgan <will+npm@willmorgan.co.uk>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "strava-v3": "^1.12.1"
+  }
+}
